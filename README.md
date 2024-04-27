@@ -6,8 +6,8 @@
 - 🤔 Estou buscando ajuda com oportunidades de desenvolvimento profissional e networking na área de tecnologia.
 - 💬 Pergunte-me sobre desenvolvimento Fullstack, Node.js, ReactJS, React Native, Docker, TypeScript, MySQL ou qualquer outra coisa relacionada à tecnologia!
 - 📫 Me mande um e-mail: fabur13@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
+- 😄 Pronome: ele/dele
+- ⚡ Fato divertido: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
 
 <p align="center">
@@ -16,6 +16,23 @@
     <img style="align='center'" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRodriguesT&layout=compact&theme=moltack" />
   </a>
 </p>
+
+<div style="display: inline_block">
+  <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
+  <img align="center" alt="paulinha-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img align="center" alt="paulinha-express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
+  <img align="center" alt="paulinha-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
+  <img align="center" alt="paulinha-mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
+  <img align="center" alt="paulinha-docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">  
+  <img align="center" alt="paulinha-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">  
+  <img align="center" alt="paulinha-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="paulinha-redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
+  <img align="center" alt="paulinha-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="paulinha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
+</div>
+
+
 
 
 <h3>Meus Contatos</h3>
