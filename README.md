@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
 ![FabioRodriguesT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioRodriguesT&repo=github-readme-stats)](https://github.com/FabioRodriguesT/github-readme-stats)
 
 
 
