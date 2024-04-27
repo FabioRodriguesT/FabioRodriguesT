@@ -9,7 +9,6 @@
 - 😄 Pronome: ele/dele
 - ⚡ Fato divertido: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
-
 <p align="center">
   <a  href="https://github.com/FabioRodriguesT/github-readme-stats">
     <img style="align='center'" height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack" />
@@ -17,20 +16,17 @@
   </a>
 </p>
 
-<h3>Tecnologias e Ferramentas</h3>
-
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="node-logo" height="40" width="50" src="./Stack-Logos/node-js.svg" title="Node-js"> 
   <img align="center" alt="javascript-logo" height="40" width="50" src="./Stack-Logos/javascript.svg" title="JavaScript">  
 </div>
 
-
-
-
 <h3>Meus Contatos</h3>
+&nbsp;
 <a href="https://www.linkedin.com/in/fabio-rodriguest/" target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </a>  
+&nbsp;&nbsp;
 <a href=mailto:“fabur13@gmail.com” target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
