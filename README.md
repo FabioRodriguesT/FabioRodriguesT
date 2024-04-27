@@ -16,6 +16,8 @@
   </a>
 </p>
 
+<h3>Tecnologias e Ferramentas</h3>
+
 <div align="center">
   <img align="center" alt="node-logo" height="40" width="50" src="./Stack-Logos/node-js.svg" title="Node-js">
   <img align="center" alt="sequelize-logo" height="40" width="50" src="./Stack-Logos/sequelize.svg" title="Sequelize">
