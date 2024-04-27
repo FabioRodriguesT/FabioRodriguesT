@@ -9,7 +9,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
-![FabioRodriguesT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=highcontrast)
+![FabioRodriguesT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack)
 
 
 
