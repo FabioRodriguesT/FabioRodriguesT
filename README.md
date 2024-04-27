@@ -9,3 +9,5 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
