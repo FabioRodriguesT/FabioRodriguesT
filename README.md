@@ -21,6 +21,8 @@
   <img align="center" alt="javascript-logo" height="40" width="50" src="./Stack-Logos/javascript.svg" title="JavaScript">  
 </div>
 
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
+ 
 <h3>Meus Contatos</h3>
 &nbsp;
 <a href="https://www.linkedin.com/in/fabio-rodriguest/" target="_blank" >
