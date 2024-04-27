@@ -17,6 +17,8 @@
   </a>
 </p>
 
+<h3>Tecnologias e Ferramentas</h3>
+
 <div style="display: inline_block">
   <img align="center" alt="node-logo" height="40" width="50" src="./Stack-Logos/node-js.svg" title="Node-js"> 
   <img align="center" alt="javascript-logo" height="40" width="50" src="./Stack-Logos/javascript.svg" title="JavaScript">  
