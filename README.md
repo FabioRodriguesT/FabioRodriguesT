@@ -26,7 +26,7 @@
   <img align="center" alt="typescript-logo" height="40" width="50" src="./Stack-Logos/typescript.svg" title="Typescript">
   <img align="center" alt="javascript-logo" height="40" width="50" src="./Stack-Logos/javascript.svg" title="JavaScript">
   <img align="center" alt="react-logo" height="40" width="50" src="./Stack-Logos/react-no-ground.svg" title="React">
-  <img align="center" alt="figma-logo" height="40" width="50" src="./Stack-Logos/figma.svg" title="Figma">
+  <img align="center" alt="figma-logo" height="40" width="50" src="./Stack-Logos/figma-white.svg" title="Figma">
   <img align="center" alt="java-logo" height="40" width="50" src="./Stack-Logos/java.svg" title="Java">
   <img align="center" alt="python-logo" height="40" width="50" src="./Stack-Logos/python.svg" title="Python">  
 </div>
