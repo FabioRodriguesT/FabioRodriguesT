@@ -9,7 +9,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em engenharia civil em 2015, e recentemente fiz uma transição de carreira para a área de desenvolvimento de software.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="display:flex; justify-content:center;" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack" />
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRodriguesT&layout=compact&theme=moltack" />
 </a>
