@@ -18,7 +18,7 @@
 </p>
 
 <div style="display: inline_block">
-  <img align="center" alt="logo-js" height="40" width="50" src="./stack-logos/java.svg" title="JavaScript">
+  <img align="center" alt="logo-js" height="40" width="50" src="./Stack-Logos/java.svg" title="JavaScript">
   
   
   
