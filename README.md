@@ -18,7 +18,10 @@
 </p>
 
 <div style="display: inline_block">
-  <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="logo-js" height="40" width="50" src="./stack-logos" title="JavaScript">
+  
+  
+  
   <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
   <img align="center" alt="paulinha-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
   <img align="center" alt="paulinha-express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
