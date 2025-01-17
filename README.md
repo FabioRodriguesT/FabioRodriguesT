@@ -1,4 +1,4 @@
-<h2>Olá, me chamo Fabio Rodrigues!!!</h2>
+<h2>Olá, sou Fábio Rodrigues!!!</h2>
 
 - 🔭 Estou em busca da minha oportunidade como desenvolvedor de Fullstack!
 - 🌱 Possuo conhecimento em Node.js, Sequelize, Express, Docker, TypeScript, MySQL, ReactJS, React Native, Figma. E atualmente, estou aprendendo sobre Java.
