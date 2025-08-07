@@ -11,7 +11,7 @@
 
 <p align="center">
   <a  href="https://github.com/FabioRodriguesT/github-readme-stats">
-    <img style="align='center'" height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack" />
+    <img style="align='center'" height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioRodriguesT&show_icons=true&theme=moltack" />
     <img style="align='center'" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRodriguesT&layout=compact&theme=moltack" />
   </a>
 </p>
