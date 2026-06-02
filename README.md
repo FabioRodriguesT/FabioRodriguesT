@@ -1,6 +1,5 @@
 <h2>Olá, sou Fábio Rodrigues!!!</h2>
 
-- 🔭 Estou em busca da minha oportunidade como desenvolvedor de Fullstack!
 - 🌱 Possuo conhecimento em Node.js, Sequelize, Express, Docker, TypeScript, MySQL, ReactJS, React Native, Figma. E atualmente, estou aprendendo sobre Java.
 - 👯 Estou procurando colaborar em projetos que me permitam aprender e crescer como desenvolvedor.
 - 🤔 Estou buscando ajuda com oportunidades de desenvolvimento profissional e networking na área de tecnologia.
