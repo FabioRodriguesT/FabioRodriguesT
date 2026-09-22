@@ -34,12 +34,7 @@ Desenvolvedor com foco na construção de aplicações web utilizando JavaScript
 - Git
 - GitHub
 
-<h3>Meus Contatos</h3>
-&nbsp;
-<a href=mailto:“fabur13@gmail.com” target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<h3>Meus Contatos</h3> &nbsp;
 
-<a href=mailto:“fabur13@gmail.com” target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="mailto:fabur13@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
