@@ -37,5 +37,4 @@ Desenvolvedor com foco na construção de aplicações web utilizando JavaScript
 ### Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabur13@gmail.com)
