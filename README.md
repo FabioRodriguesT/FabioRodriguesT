@@ -1,34 +1,35 @@
-<h2>Olá, eu sou Fábio Rodrigues👋</h2>
+#Olá, eu sou Fábio Rodrigues👋#
 
-💻 Desenvolvedor Front-end
+##💻 Desenvolvedor Front-end##
 
 Desenvolvedor com foco na construção de aplicações web utilizando JavaScript, TypeScript e React.
 
-🛠️ Tecnologias
+##🛠️ Tecnologias##
 
-Front-end
-JavaScript
-TypeScript
-React
-Next.js
-HTML
-CSS
+###Front-end###
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML
+- CSS
 
-Back-end
+###Back-end###
 
-Node.js
-Express
-Ruby on Rails
+- Node.js
+- Express
+- Ruby on Rails
+- Java
 
-Banco de dados
+###Banco de dados###
 
-MySQL
-PostgreSQL
+- MySQL
+- PostgreSQL
 
-Testes e ferramentas
+###Testes e ferramentas###
 
-Jest
-React Testing Library
-Docker
-Git
-GitHub
+- Jest
+- React Testing Library
+- Docker
+- Git
+- GitHub
