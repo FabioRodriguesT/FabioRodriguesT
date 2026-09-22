@@ -33,3 +33,13 @@ Desenvolvedor com foco na construção de aplicações web utilizando JavaScript
 - Docker
 - Git
 - GitHub
+
+<h3>Meus Contatos</h3>
+&nbsp;
+<a href=mailto:“fabur13@gmail.com” target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href=mailto:“fabur13@gmail.com” target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
